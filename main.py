@@ -76,7 +76,7 @@ if __name__ == "__main__":
 			elif distance>400:
 				break
 
-	# sort the dataframe by  index, in ascending order
+	# sort the dataframe by  index  in ascending order
 	df=df.sort_index(axis=0)
 
 	# select the columns to include in the output file and save the results to a csv file
