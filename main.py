@@ -81,4 +81,4 @@ if __name__ == "__main__":
 
 	# select the columns to include in the output file and save the results to a csv file
 	header=['name','latitude','longitude','is_similar']
-	df.to_csv('result//output.csv', index=False,columns=header)
+	df.to_csv('output.csv', index=False,columns=header)
