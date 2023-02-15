@@ -7,6 +7,6 @@ This code reads in a CSV file containing location data and calculates the distan
 ## Usage
   1. Place the input CSV file in the same directory as the code file.
   2. Run the code.
-  3. The output file will be saved in the 'output' directory.
+  3. The output file will be saved as 'output.csv' .
 ## License
 This code is released under the MIT License.
